@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: #ffffff;
+}
+nav{
+    background-color: #283e4a;
+    display: flex;
+}
+.nav-menu li {
+    display: inline-block;
+}
+.nav-menu a {
+    color: white;
+}
+header{
+    background-color: #2d72d9;
+}
+header h2 {
+    color : #white;
+    font-size: 60px;
+    text-align: center;
+    padding: 190px 0;
+}
+h3{
+    text-align: center;
+    text-transform: uppercase;
+}
+img{
+    width: 20%;
+}
